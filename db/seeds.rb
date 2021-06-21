@@ -1,0 +1,13 @@
+List.create(name: 'Noob List (Less than 1 min).')
+List.create(name: 'Wolf List (1-5mins).')
+List.create(name: 'Tiger List (5-10mins).')
+List.create(name: 'Demon List (10-30mins).')
+List.create(name: 'Dragon List (30mins-1hour).')
+List.create(name: 'God List (Over 1 hour).')
+
+Player.create(name: 'Mars', score: '3600', list_id: 6)
+Player.create(name: 'Ares', score: '1800', list_id: 5)
+Player.create(name: 'Maarku', score: '600', list_id: 4)
+Player.create(name: 'Mavors', score: '300', list_id: 3)
+Player.create(name: 'Mavorte', score: '60', list_id: 2)
+Player.create(name: 'Marcus', score: '30', list_id: 1)
